@@ -1,6 +1,7 @@
 # machine-learning-model-deployment
 
-Below model deployment strategies are covered in deployment.ipynb
+Below machine learning model deployment strategies are covered in deployment.ipynb.
+Note that we are using AWS Sagemaker for the model development and deployment.
 
 1. Real-time inference - for low latency predictions.
 2. Serverless inference - for unpredictable, fluctuating traffic. Helps to save cost.
